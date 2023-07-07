@@ -1,6 +1,6 @@
-# AboutMe
+
 ### 👋 Hi, I’m Mathushaharan Rathakrishnan.
-#<!-- <img src="https://komarev.com/ghpvc/?username=Justy-11&label=Profile%20views&color=0e75b6&style=flat" alt="Justy-11" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=Justy-11&label=Profile%20views&color=0e75b6&style=flat" alt="Mathushaharan R." /> -->
 
 
 - ✨ 🎩 Final year Electrical and Electronic Engineering undergraduate (Minor in Telecommunication), University of Sri Jayewardenepura
