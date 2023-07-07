@@ -1,11 +1,11 @@
 # AboutMe
-### 👋 Hi, I’m Jathurshan Pathmarasa 
-<!-- <img src="https://komarev.com/ghpvc/?username=Justy-11&label=Profile%20views&color=0e75b6&style=flat" alt="Justy-11" /> -->
+### 👋 Hi, I’m Mathushaharan Rathakrishnan.
+#<!-- <img src="https://komarev.com/ghpvc/?username=Justy-11&label=Profile%20views&color=0e75b6&style=flat" alt="Justy-11" /> -->
 
 
-- ✨ 🎩 Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
-- 💞️ I am interested in mobile, web app development and machine learning
-- 🌱 Currently working as an Software Engineer (Back-End) intern
+- ✨ 🎩 Final year Electrical and Electronic Engineering undergraduate (Minor in Telecommunication), University of Sri Jayewardenepura
+- 💞️ I am interested in areas such as Electronic Circuit Design, Telecommunication, and Machine Learning
+- 🌱 Currently working as a research intern @Centre for Defence Research and Development
 
 <h3 align="left">Reach me 📫</h3>
 <div style="display:flex; align-items:center;">
@@ -29,8 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Justy-11&show_icons=true&locale=en" alt="Justy-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Justy-11&" alt="Justy-11" /></p>
-
-<!---
-Justy-11/Justy-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
