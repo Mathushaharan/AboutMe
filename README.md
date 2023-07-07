@@ -1,7 +1,5 @@
 
 ### 👋 Hi, I’m Mathushaharan Rathakrishnan.
-<!-- <img src="https://komarev.com/ghpvc/?username=Mathushaharan R.&label=Profile%20views&color=0e75b6&style=flat" alt="Mathushaharan R." /> -->
-
 
 - ✨ 🎩 Final year Electrical and Electronic Engineering undergraduate (Minor in Telecommunication), University of Sri Jayewardenepura
 - 💞️ I am interested in areas such as Electronic Circuit Design, Telecommunication, and Machine Learning
@@ -10,7 +8,7 @@
 <h3 align="left">Reach me 📫</h3>
 <div style="display:flex; align-items:center;">
   <div style="margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/mathushaharan28/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" height="20" alt="LinkedIn">
     </a>
   </div>
