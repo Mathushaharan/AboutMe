@@ -13,7 +13,7 @@
     </a>
   </div>
   <div>
-    <a href="mailto:jathursh11@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:mathushahar333@gmail.com" target="_blank" rel="noreferrer">
       <img src="https://www.gstatic.com/images/icons/material/product/2x/gmail_48dp.png" alt="Gmail" width="20" height="20">
     </a>
   </div>
